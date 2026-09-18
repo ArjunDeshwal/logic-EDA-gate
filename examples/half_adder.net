@@ -1,0 +1,5 @@
+# Half Adder Netlist
+# Format: TYPE NAME INPUTS... OUTPUT
+XOR U1 A B SUM
+AND U2 A B CARRY
+

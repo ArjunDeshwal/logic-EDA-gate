@@ -1,0 +1,4 @@
+# D Flip-Flop Netlist
+# Format: TYPE NAME D CLK Q
+DFF U1 D CLK Q
+
